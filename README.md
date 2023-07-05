@@ -8,6 +8,12 @@ Extract insights from the team survey data into a Slack message using OpenAI.
 
 ## Example
 
+This is what [OpenBB](http://openbb.co)'s team survey data looks like:
+
+<p align="center">
+  <img width="1351" alt="Screenshot 2023-07-04 at 7 43 09 PM" src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/d21d26a8-fb2a-4a9b-b0e0-d87dc1edee1b">
+</p>
+
 ```
 $ python extract_insights_from_last_team_survey.py 
 ```
