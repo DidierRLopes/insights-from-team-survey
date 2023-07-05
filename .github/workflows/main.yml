@@ -29,7 +29,9 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install python-dotenv
+          pip install pandas
+          pip install openai
 
       - name: extract insights from team feedback
         run: |
