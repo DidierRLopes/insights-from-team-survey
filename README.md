@@ -3,15 +3,16 @@
 Extract insights from the team survey data into a Slack message using OpenAI.
 
 <p align="center">
-  <img src=https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/62ae658e-6d4f-4fd1-88e8-241a36dd65ab alt="Example" width=600/>
+  <img src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/7a867401-27b7-4228-867d-4d13fba792a8" alt="Example" width=600/>
 </p>
+
 
 ## Example
 
 This is what [OpenBB](http://openbb.co)'s team survey data looks like:
 
 <p align="center">
-  <img width="1351" alt="Screenshot 2023-07-04 at 7 43 09 PM" src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/d21d26a8-fb2a-4a9b-b0e0-d87dc1edee1b">
+  <img width="1351" alt="Screenshot 2023-07-04 at 7 43 09 PM" src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/57aeca64-88ee-4fa3-8ab7-76f05c0222a8">
 </p>
 
 ```
@@ -34,7 +35,7 @@ SUCCESS: Message posted to Didier Lopes
 ```
 
 <p align="center">
-  <img src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/62ae658e-6d4f-4fd1-88e8-241a36dd65ab" alt="Example"/>
+  <img src="https://github.com/DidierRLopes/insights-from-team-survey/assets/25267873/7a867401-27b7-4228-867d-4d13fba792a8" alt="Example" width=600/>
 </p>
 
 ## Installation
