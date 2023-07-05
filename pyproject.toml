@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "insights-from-team-survey"
+version = "0.1.0"
+description = ""
+authors = ["DidierRLopes <dro.lopes@campus.fct.unl.pt>"]
+readme = "README.md"
+packages = [{include = "insights_from_team_survey"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.0"
+pandas = "^2.0.3"
+openai = "^0.27.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
