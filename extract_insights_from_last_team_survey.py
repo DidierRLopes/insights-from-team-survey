@@ -109,7 +109,7 @@ def main():
         response = urlopen(req)
         response.read()
         
-        print(f"SUCCESS: Message posted to {payload['channel']}\n")
+        print("SUCCESS: Message with insights sent to slack\n")
         return 1
     except HTTPError as e:
         print(f"Request failed: {e.code} {e.reason}\n")
