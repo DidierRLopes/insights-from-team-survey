@@ -66,12 +66,11 @@ Create an `.env` file and copy-paste:
 
 ```
 SLACK_WEBHOOK_URL='REPLACEME'
-SLACK_CHANNEL_NAME='REPLACEME'
 AIRTABLE_API_KEY = 'REPLACEME'
 AIRTABLE_BASE_ID = 'REPLACEME'
 AIRTABLE_TABLE_NAME = 'REPLACEME'
 OPENAI_API_KEY = "REPLACEME"
 ```
 
-with `REPLACEME` being replaced by your own keys and tokens extracted from [Slack](https://api.slack.com/apps), [Airtable](https://airtable.com/create/tokens) and [OpenAI](https://platform.openai.com/account/api-keys), respectively. Note that for Airtable you will need details from the table you are trying to access information from.
+with `REPLACEME` being replaced by your own keys extracted from [Slack](https://api.slack.com/apps), [Airtable](https://airtable.com/create/tokens) and [OpenAI](https://platform.openai.com/account/api-keys), respectively. Note that for Airtable you will need details from the table you are trying to access information from.
 
