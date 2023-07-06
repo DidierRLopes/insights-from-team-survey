@@ -103,7 +103,6 @@ def main():
 
     payload = {
         'text': insight,
-        'channel': SLACK_CHANNEL_NAME,
     }
 
     req = Request(SLACK_WEBHOOK_URL, json.dumps(payload).encode('utf-8'))
