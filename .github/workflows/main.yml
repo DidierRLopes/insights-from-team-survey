@@ -7,7 +7,6 @@ on:
 
 env:
   SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-  SLACK_CHANNEL_NAME: ${{ secrets.SLACK_CHANNEL_NAME }}
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
   AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
