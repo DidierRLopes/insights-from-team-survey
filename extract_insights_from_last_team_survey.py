@@ -17,7 +17,6 @@ def main():
 
     ## Slack API
     SLACK_WEBHOOK_URL = os.getenv('SLACK_WEBHOOK_URL') or "REPLACE-ME"
-    SLACK_CHANNEL_NAME = os.getenv('SLACK_CHANNEL_NAME') or "REPLACE-ME"
     ## Airtable API
     AIRTABLE_API_KEY = os.getenv('AIRTABLE_API_KEY') or "REPLACE-ME"
     AIRTABLE_BASE_ID = os.getenv('AIRTABLE_BASE_ID') or "REPLACE-ME"
