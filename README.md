@@ -1,5 +1,7 @@
 # Insights from team survey
 
+More information here: https://openbb.co/blog/how-we-used-openai-to-extract-insights-from-team-surveys
+
 Extract insights from the team survey data into a Slack message using OpenAI.
 
 <p align="center">
