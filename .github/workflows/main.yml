@@ -31,6 +31,7 @@ jobs:
           pip install python-dotenv
           pip install pandas
           pip install openai
+          pip install requests
 
       - name: extract insights from team feedback
         run: |
