@@ -30,7 +30,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install python-dotenv
           pip install pandas
-          pip install openai
+          pip install openai==0.28
           pip install requests
 
       - name: extract insights from team feedback
